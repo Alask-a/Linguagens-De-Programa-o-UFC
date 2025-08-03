@@ -35,7 +35,7 @@ Fundamentos-Linguagens-UFC/
 ├── 06-subprogramas/ 
 
 └── README.md                 # Passagem de parâmetros
-│
+
 ├── 07-implementacao-subprogramas/ 
 
 └── README.md                 # Pilha de chamadas recursivas
