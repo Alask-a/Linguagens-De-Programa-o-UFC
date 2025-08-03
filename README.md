@@ -30,7 +30,7 @@ Fundamentos-Linguagens-UFC/
 ├── 06-subprogramas/ 
 └── README.md                 # Passagem de parâmetros
 │
-├── 07-implementacao-subprogramas/  
+├── 07-implementacao-subprogramas/ 
 └── README.md                 # Pilha de chamadas recursivas
 
 ├── 08-orientacao-objetos/   
@@ -52,4 +52,4 @@ Fundamentos-Linguagens-UFC/
 └── README.md                 # Scripts para automação ou web
 
 └── 14-tendencias/
-    └── README.md                 # Estudo crítico de uma linguagem emergente
+└── README.md                 # Estudo crítico de uma linguagem emergente
