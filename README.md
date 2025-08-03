@@ -13,10 +13,12 @@ Fundamentos-Linguagens-UFC/
 ├── README.md                     # Apresentação geral do trabalho
 
 ├── 01-introducao/                # Linha do tempo da evolução das linguagens
-│   └── README.md
+│   
+     └── README.md
 
 ├── 02-ambientes/                 # Diagrama de compiladores, interpretadores e VMs
-│   └── README.md
+│   
+    └── README.md
 
 ├── 03-sintaxe-semantica/         # Gramática criada e análise léxica
 │   └── README.md
