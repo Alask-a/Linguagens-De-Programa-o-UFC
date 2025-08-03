@@ -16,7 +16,7 @@ Fundamentos-Linguagens-UFC/
      └── README.md
 
 ├── 02-ambientes/                 # Diagrama de compiladores, interpretadores e VMs
-    └── README.md
+└── README.md
 
 ├── 03-sintaxe-semantica/         # Gramática criada e análise léxica   
 └── README.md
@@ -24,40 +24,31 @@ Fundamentos-Linguagens-UFC/
 ├── 04-tipos-de-dados/            # Comparativo entre linguagens 
 └── README.md
 
-├── 05-estruturas-de-controle/
-│   
+├── 05-estruturas-de-controle/   
 └── README.md                 # Programa com estruturas de controle
 
-├── 06-subprogramas/
-│   
+├── 06-subprogramas/ 
 └── README.md                 # Passagem de parâmetros
 │
-├── 07-implementacao-subprogramas/
-│   
+├── 07-implementacao-subprogramas/  
 └── README.md                 # Pilha de chamadas recursivas
 
-├── 08-orientacao-objetos/
-│   
+├── 08-orientacao-objetos/   
 └── README.md                 # Modelagem de classes
 
-├── 09-concorrencia/
-│   
+├── 09-concorrencia/   
 └── README.md                 # Threads e processos
 
-├── 10-gerenciamento-memoria/
-│   
+├── 10-gerenciamento-memoria/   
 └── README.md                 # Quadro comparativo
 
-├── 11-programacao-funcional/
-│   
+├── 11-programacao-funcional/   
 └── README.md                 # Exemplo funcional (recursão e alta ordem)
 
-├── 12-programacao-logica/
-│   
+├── 12-programacao-logica/  
 └── README.md                 # Exemplo inspirado em Prolog
 
-├── 13-scripts-web/
-│   
+├── 13-scripts-web/   
 └── README.md                 # Scripts para automação ou web
 
 └── 14-tendencias/
